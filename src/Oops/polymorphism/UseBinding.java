@@ -7,7 +7,7 @@ public class UseBinding {
         p.display();
 
 
-        // change object p refrenace to child object
+        // change Parent p refrenace to child object
         p = new Child();
         Parent.show();
         p.display();
